@@ -5,7 +5,7 @@ some codes of Yosemite borrow from Varys
 ### Building Yosemite
 
 ```
-git clone https://github.com/zhanghan1990/Yosemite.git
+git cloneh ttps://github.com/YosemiteCode/Yosemite.git
 cd Yosemite
 sbt assembly
 ```
